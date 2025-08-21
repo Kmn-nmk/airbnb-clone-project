@@ -130,19 +130,6 @@ The following reusable UI components will form the backbone of the application�
 
 ---
 
-## 📝 Project Assessment (Hybrid)  
-Your work will be evaluated by:  
-- **Manual review** (primary evaluation)  
-- **Auto-check** (verifies presence of core files)  
 
-### Requirements for full score:  
-- ✅ Complete project on time  
-- 📄 Submit all required files  
-- 🔗 Generate review link  
-- 👥 Peer review from teammates  
-
-⚠️ **Note:** If the deadline passes, you can’t generate a review link — submit on time!  
-
----
 
 ✨ *Happy coding and teamwork — let’s build something amazing!* ✨  
